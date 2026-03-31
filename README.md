@@ -28,7 +28,7 @@ Analyze YouTube Shorts performance to identify key factors influencing engagemen
 
 ### Top Performing Videos
 
-![Top Videos](images/top_videos.jpeg)
+![Top Videos](images/top_5_videos.jpeg)
 
 ### Low Performing Videos
 
@@ -45,6 +45,12 @@ Analyze YouTube Shorts performance to identify key factors influencing engagemen
 ### Best Day to Post
 
 ![Day](images/best_day_to_post.jpeg)
+
+### Conversion Rate
+![conversion](images/top_videos_by_conversion_rate.jpeg)
+
+### Like vs Engagements
+![Engagement](images/like_vs_engagement.jpeg)
 
 ## Key Insights
 
